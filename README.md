@@ -42,4 +42,4 @@
  
  Update V1.2.6 @2022-10-29 MK
  - Commented out [MeasureDeltaDirection] displaying "Flat" most of the time due to xDrip/NS-bug
- - Added [CalcAverageDeltaDirection] using the "sum of last 3 deltas" to calculate own trend arrow based own trigger values and added arrow coloring
+ - Added [CalcAverageDeltaDirection] using the "sum of last 3 deltas" to calculate own trend arrow based on own trigger values and added arrow coloring
