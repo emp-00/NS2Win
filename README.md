@@ -11,7 +11,7 @@
  - "Ticking" time in right corner showing time difference current system time vs. last glucose reading
  - Preparation for "5 min" polling e.g. shortly after 5 mins have passed (e.g. Dexcom G6); default = 1 min polling
  
- ![image](https://user-images.githubusercontent.com/60714349/198903610-f6f894e9-ea6e-40ee-8137-324822a9fb22.png)
+  ![image](https://user-images.githubusercontent.com/60714349/198903721-57c2d9dc-dd43-4bc0-bcbd-c7902e8f01b2.png)
  
  Update V1.1.0 @2022-10-05 MK
  - Original pebble API call only worked with --> AUTH_DEFAULT_ROLES="readable" (thus not usable with: export AUTH_DEFAULT_ROLES="denied")
