@@ -10,11 +10,8 @@
  - Customized High/Low Alarm values for colorized glucose, delta glucose +/- XX mg/dl colored
  - "Ticking" time in right corner showing time difference current system time vs. last glucose reading
  - Preparation for "5 min" polling e.g. shortly after 5 mins have passed (e.g. Dexcom G6); default = 1 min polling
-  
- ![image](https://user-images.githubusercontent.com/60714349/198889996-0fb75f12-c352-4ff4-bfc9-f3e5ff6542d3.png)
- ![image](https://user-images.githubusercontent.com/60714349/198890172-a5d5af8b-0b2e-4207-8283-d1bd90fd9c19.png)
- ![image](https://user-images.githubusercontent.com/60714349/198889055-e20f2d5d-10e9-4174-b067-a61dc046032a.png)
- ![image](https://user-images.githubusercontent.com/60714349/198889087-de531893-340b-4562-99d2-1a6f4f8de67c.png)
+ 
+ ![image](https://user-images.githubusercontent.com/60714349/198903610-f6f894e9-ea6e-40ee-8137-324822a9fb22.png)
  
  Update V1.1.0 @2022-10-05 MK
  - Original pebble API call only worked with --> AUTH_DEFAULT_ROLES="readable" (thus not usable with: export AUTH_DEFAULT_ROLES="denied")
