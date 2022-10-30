@@ -1,9 +1,10 @@
 # NS2Win
  Rainmeter skin to display your Nightscout glucose on your Windows device using Rainmeter.
  
- Based on the initial release of MrJordanRoth Rev. 1.0.0
+ This desktop gadget requires Rainmeter: https://www.rainmeter.net
  
  Customized Design and New Features:
+ - Based on the initial release of MrJordanRoth Rev. 1.0.0 
  - Rounded corner design based on SilverAzide Gadgets suite "Solid background2"
  - Customized High/Low Alarm values for colorized glucose, delta glucose +/- XX mg/dl colored
  - "Ticking" time in right corner showing time difference current system time vs. last glucose reading
@@ -36,4 +37,3 @@
  Update V1.2.6 @2022-10-29 MK
  - Commented out [MeasureDeltaDirection] displaying "Flat" most of the time due to xDrip/NS-bug
  - Added [CalcAverageDeltaDirection] using the "sum of last 3 deltas" to calculate own trend arrow based own trigger values and added arrow coloring
- 
