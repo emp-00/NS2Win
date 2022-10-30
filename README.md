@@ -5,6 +5,7 @@
  
  Customized Design and New Features:
  - Based on the initial release of MrJordanRoth Rev. 1.0.0 
+ - Can be used with all CGM's e.g. Dexcom G5, G6, G7, Abbott FreeStyle Libre with Nightscout-uploader e.g. via xDrip+
  - Rounded corner design based on SilverAzide Gadgets suite "Solid background2"
  - Customized High/Low Alarm values for colorized glucose, delta glucose +/- XX mg/dl colored
  - "Ticking" time in right corner showing time difference current system time vs. last glucose reading
