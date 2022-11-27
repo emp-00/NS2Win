@@ -20,8 +20,6 @@ Customized Design and New Features:
 - "Ticking" time in right corner showing time difference current system time vs. last glucose reading, switch off if not needed
 - Rounded corner design based on SilverAzide Gadgets suite "Solid background2" and full skin scaling high dpi functionality
  
- ![NS2Win_1 3 0-teaser](https://user-images.githubusercontent.com/60714349/204150346-db58d3aa-4ac9-4086-881a-a24cfc30e266.png)
-
 Changelog History:
 
 Original V1.0.0 by Jordan Roth: https://github.com/MrJordanRoth/NS2Win
