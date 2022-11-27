@@ -14,7 +14,6 @@ Screenshots:
 
 Customized Design and New Features:
 
-- Based on the initial release of MrJordanRoth Rev. 1.0.0: https-:-//github.com/MrJordanRoth/NS2Win
 - Can be used with all CGM's e.g. Dexcom G5, G6, G7, Abbott FreeStyle Libre with Nightscout-uploader e.g. via xDrip+
 - Showing blood glucose, time since last reading, delta, arrow, IOB and COB
 - Customized High/Low Alarm values for colorized glucose, delta glucose +/- XX mg/dl colored
@@ -25,7 +24,7 @@ Customized Design and New Features:
 
 Changelog History:
 
-- Original V1.0.0 by Jordan Roth
+- Original V1.0.0 by Jordan Roth: https://github.com/MrJordanRoth/NS2Win
 
 - Update V1.1.0 to 1.1.2 @2022-10-05 to 10-09 MK
  Note: Original pebble API call only worked with --> AUTH_DEFAULT_ROLES="readable", thus was not usable with: export AUTH_DEFAULT_ROLES="denied"
