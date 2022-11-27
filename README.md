@@ -1,6 +1,6 @@
-# NS2Win
+# NS2Win_MK
  
- NS2Win 1.3.0: Rainmeter skin to display Nightscout glucose readings on your Windows device.
+ NS2Win_MK 1.3.0: Rainmeter skin to display Nightscout glucose readings on your Windows device.
 
 Nightscout is used by many diabetics for CGM blood glucose monitoring: http://www.nightscout.info
 
