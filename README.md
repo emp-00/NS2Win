@@ -10,7 +10,7 @@ Nightscout is used by many diabetics for CGM blood glucose monitoring: http://ww
 
 Screenshots:
 
-![NS2Win_1 3 0-teaser](https://user-images.githubusercontent.com/60714349/204150482-2bc529da-d52c-4920-a354-eb144d1cb0ac.png)
+![image](https://user-images.githubusercontent.com/60714349/230734030-d6ae822f-1a48-48d2-8df0-cb168146176b.png)
 
 Customized Design and New Features:
 
